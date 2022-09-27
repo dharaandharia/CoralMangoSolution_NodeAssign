@@ -1,0 +1,1 @@
+# CoralMangoSolution_NodeAssign
